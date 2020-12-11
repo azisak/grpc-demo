@@ -5,8 +5,7 @@
 
 Compile
 ```
-make compile_grpc
-make compile_reverse_proxy
+make compile
 ```
 
 Run Server
